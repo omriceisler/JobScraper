@@ -1,6 +1,6 @@
 <b>Job Scraper</b>
 
-This is a script that scanned the israeli job posting website Alljobs.co.il
+This is a script that scanned the israeli job posting website Alljobs.co.il<br>
 The data is pushed to a local elastic search instance with the index names the same as the search title
 
 <b>Prerequisite</b><br>
