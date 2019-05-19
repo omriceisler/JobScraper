@@ -14,3 +14,12 @@ Elasticsearch URL installed / defined
 
 #run
 main.py
+
+
+#Kibaba
+
+sample dashboard created in Kibana over the elasticsearch instance, to showcase the results
+
+
+![Alt text](/KibanaDashboard.png?raw=true "Devops")
+
