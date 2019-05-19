@@ -12,7 +12,7 @@ Elasticsearch URL installed / defined
 "title" - this is the title of the job description that will be matched<br>
 "elasticURL" - points to the elatciseatch instance to send the requests to
 
-<b>run</b><br>
+<b>Run</b><br>
 main.py
 
 
